@@ -51,7 +51,7 @@
 
 <sub>
 
-🔬 **[특허/디자인 FTO 분석 시스템](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM)** `진행 중`
+🔬 **[한국 화장품 특허 FTO 분석 시스템](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM)** `진행 중`
 
 </sub>
 
@@ -62,7 +62,7 @@ sLLM 기반 특허 침해 분석 자동화 시스템 — 한국 화장품 분야
 <code>Gemma3</code> <code>LangGraph</code> <code>FastAPI</code> <code>React</code> <code>RAG</code> <code>RunPod</code><br><br>
 <b>역할</b>: AI 기획 & sLLM 학습 데이터 엔지니어<br><br>
 📌 <b>주요 작업</b><br>
-• Gemma3 sLLM 파인튜닝을 위한 특허 청구항 학습 데이터 구축 <a href="https://github.com/77eileen/patent">🗒️</a><br>
+• Gemma3 sLLM 파인튜닝을 위한 특허 청구항 학습 데이터 구축 (<a href="https://github.com/77eileen/patent">개인 레포</a>)<br>
 • 특허 침해 판단 기준 데이터셋 설계 및 정제<br>
 • RunPod GPU 클라우드 환경에서의 모델 학습 파이프라인 구성<br>
 • 법적 리스크 최소화를 위한 용어 및 서비스 플로우 기획<br><br>
@@ -192,18 +192,18 @@ Netflix 사용자 데이터 기반 ML/DL 모델로 고객 이탈 가능성 예�
 
 <sub>
 
-**📈 GitHub Stats**
+**GitHub Stats**
 
 </sub>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=77eileen&show_icons=true&theme=default&hide_border=true&bg_color=00000000&title_color=333333&icon_color=666666&text_color=555555" height="140" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77eileen&layout=compact&theme=default&hide_border=true&bg_color=00000000&title_color=333333&text_color=555555" height="140" />
+<img src="https://github-readme-stats.vercel.app/api?username=77eileen&show_icons=true&hide_border=true&bg_color=ffffff&title_color=333333&icon_color=666666&text_color=555555" height="140" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77eileen&layout=compact&hide_border=true&bg_color=ffffff&title_color=333333&text_color=555555" height="140" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=77eileen&theme=transparent&hide_border=true&ring=666666&fire=333333&currStreakLabel=333333&sideLabels=555555&dates=999999" height="140" />
+<img src="https://streak-stats.demolab.com/?user=77eileen&hide_border=true&background=ffffff&ring=666666&fire=333333&currStreakLabel=333333&sideLabels=555555&dates=999999" height="140" />
 
 </div>
 
