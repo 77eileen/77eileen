@@ -49,7 +49,7 @@
 <br>
 
 <sub>🔬 **[Greenlight](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM)** `진행 중`</sub><br>
-<sub>sLLM 기반 특허 침해 분석 자동화 — 특허/디자인 분야 Freedom to Operate(FTO) 분석</sub><br><br>
+<sub>[SKN20_Final Project] sLLM 기반 특허 침해 분석 자동화 — 특허/디자인 분야 Freedom to Operate(FTO) 분석</sub><br><br>
 <sub><code>Gemma3</code> <code>LangGraph</code> <code>FastAPI</code> <code>React</code> <code>RAG</code> <code>RunPod</code></sub><br><br>
 <sub><b>역할</b>: AI 기획 & sLLM 학습 데이터 엔지니어</sub><br><br>
 <sub>📌 <b>주요 작업</b></sub><br>
@@ -63,8 +63,8 @@
 
 <hr>
 
-<sub>📚 **[PaperSnack v2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-4th-2TEAM)** — 4th Project</sub><br>
-<sub>HuggingFace Weekly Papers RAG 챗봇의 확장판 — 회원 시스템, 대화 기록, Docker 배포</sub><br><br>
+<sub>📚 **[PaperSnack v2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-4th-2TEAM)** </sub><br>
+<sub>[SKN20_4th Project] HuggingFace Weekly Papers RAG 챗봇의 확장판 — 회원 시스템, 대화 기록, Docker 배포</sub><br><br>
 <sub><code>Django</code> <code>FastAPI</code> <code>LangGraph</code> <code>ChromaDB</code> <code>Docker</code> <code>MySQL</code></sub><br><br>
 <sub><b>역할</b>: Full Stack Developer</sub><br><br>
 <sub>📌 <b>주요 작업</b></sub><br>
@@ -78,8 +78,8 @@
 
 <hr>
 
-<sub>🔍 **[PaperSnack v1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-3rd-2TEAM)** — 3rd Project</sub><br>
-<sub>HuggingFace Weekly Papers 데이터를 자동 수집·분석하여 최신 AI/ML 논문 트렌드를 질의응답 형태로 제공</sub><br><br>
+<sub>🔍 **[PaperSnack v1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-3rd-2TEAM)** </sub><br>
+<sub>[SKN20_3rd Project] HuggingFace Weekly Papers 데이터를 자동 수집·분석하여 최신 AI/ML 논문 트렌드를 질의응답 형태로 제공</sub><br><br>
 <sub><code>LangGraph</code> <code>FastAPI</code> <code>ChromaDB</code> <code>K-Means</code> <code>HTML/JS</code></sub><br><br>
 <sub><b>역할</b>: RAG 파이프라인 개발 & 백엔드</sub><br><br>
 <sub>📌 <b>주요 작업</b></sub><br>
@@ -94,8 +94,8 @@
 
 <hr>
 
-<sub>📊 **[Netflix 고객 이탈률 예측](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-2nd-5TEAM)** — 2nd Project</sub><br>
-<sub>Netflix 사용자 데이터 기반 ML/DL 모델로 고객 이탈 가능성 예측 및 맞춤형 구독 추천</sub><br><br>
+<sub>📊 **[Netflix 고객 이탈률 예측](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-2nd-5TEAM)** </sub><br>
+<sub> [SKN20_2nd Project] Netflix 사용자 데이터 기반 ML/DL 모델로 고객 이탈 가능성 예측 및 맞춤형 구독 추천</sub><br><br>
 <sub><code>PyTorch</code> <code>scikit-learn</code> <code>Streamlit</code> <code>Pandas</code></sub><br><br>
 <sub><b>역할</b>: 데이터 분석 & 모델링</sub><br><br>
 <sub>📌 <b>주요 작업</b></sub><br>
@@ -109,8 +109,8 @@
 
 <hr>
 
-<sub>🚗 **[차량 정보 조회 시스템 및 FAQ](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-1ST-4TEAM)** — 1st Project</sub><br>
-<sub>2015&#126;2024년 연료별 차량 현황 조회 + 기아 자동차 FAQ 통합 대시보드</sub><br><br>
+<sub>🚗 **[차량 정보 조회 시스템 및 FAQ](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-1ST-4TEAM)** </sub><br>
+<sub>[SKN20_1st Project] 2015&#126;2024년 연료별 차량 현황 조회 + 기아 자동차 FAQ 통합 대시보드</sub><br><br>
 <sub><code>Streamlit</code> <code>Plotly</code> <code>MySQL</code> <code>Selenium</code> <code>BeautifulSoup</code></sub><br><br>
 <sub><b>역할</b>: 크롤링 & 대시보드 개발</sub><br><br>
 <sub>📌 <b>주요 작업</b></sub><br>
