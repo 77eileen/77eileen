@@ -23,7 +23,6 @@
 <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="18"></a>
 <a><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="18"></a>
 <a><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="18"></a>
-<a><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="18"></a>
 </p>
 
 <p>
@@ -48,10 +47,13 @@
 
 <br>
 
-<sub>🔬 **[Greenlight](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM)** `진행 중`</sub><br>
-<sub>[SKN20_Final Project] sLLM 기반 특허 침해 분석 자동화 — 특허/디자인 분야 Freedom to Operate(FTO) 분석</sub><br><br>
+🔬 **[Greenlight](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM)** `진행 중`
+
+> <sub>[SKN20_Final Project]</sub><br>
+> <sub>sLLM 기반 특허 침해 분석 자동화 — 특허/디자인 분야 Freedom to Operate(FTO) 분석</sub>
+
 <sub><code>Gemma3</code> <code>LangGraph</code> <code>FastAPI</code> <code>React</code> <code>RAG</code> <code>RunPod</code></sub><br><br>
-<sub><b>역할</b>: AI 기획 & sLLM 학습 데이터 엔지니어</sub><br><br>
+<sub>🔉 <b>역할</b>: AI 기획 & sLLM 학습 데이터 엔지니어</sub><br><br>
 <sub>📌 <b>주요 작업</b></sub><br>
 <sub>• Gemma3 sLLM 파인튜닝을 위한 특허 청구항 학습 데이터 구축 <a href="https://github.com/77eileen/patent">🔗</a></sub><br>
 <sub>• 특허 침해 판단 기준 데이터셋 설계 및 정제</sub><br>
@@ -63,10 +65,13 @@
 
 <hr>
 
-<sub>📚 **[PaperSnack v2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-4th-2TEAM)** </sub><br>
-<sub>[SKN20_4th Project] HuggingFace Weekly Papers RAG 챗봇의 확장판 — 회원 시스템, 대화 기록, Docker 배포</sub><br><br>
+📚 **[PaperSnack v2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-4th-2TEAM)**
+
+> <sub>[SKN20_4th Project]</sub><br>
+> <sub>HuggingFace Weekly Papers RAG 챗봇의 확장판 — 회원 시스템, 대화 기록, Docker 배포</sub>
+
 <sub><code>Django</code> <code>FastAPI</code> <code>LangGraph</code> <code>ChromaDB</code> <code>Docker</code> <code>MySQL</code></sub><br><br>
-<sub><b>역할</b>: Full Stack Developer</sub><br><br>
+<sub>🔉 <b>역할</b>: Full Stack Developer</sub><br><br>
 <sub>📌 <b>주요 작업</b></sub><br>
 <sub>• Django 기반 회원가입/로그인 인증 시스템 구현</sub><br>
 <sub>• 사용자별 대화 기록 저장 및 조회 기능 개발</sub><br>
@@ -78,10 +83,13 @@
 
 <hr>
 
-<sub>🔍 **[PaperSnack v1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-3rd-2TEAM)** </sub><br>
-<sub>[SKN20_3rd Project] HuggingFace Weekly Papers 데이터를 자동 수집·분석하여 최신 AI/ML 논문 트렌드를 질의응답 형태로 제공</sub><br><br>
+🔍 **[PaperSnack v1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-3rd-2TEAM)**
+
+> <sub>[SKN20_3rd Project]</sub><br>
+> <sub>HuggingFace Weekly Papers 데이터를 자동 수집·분석하여 최신 AI/ML 논문 트렌드를 질의응답 형태로 제공</sub>
+
 <sub><code>LangGraph</code> <code>FastAPI</code> <code>ChromaDB</code> <code>K-Means</code> <code>HTML/JS</code></sub><br><br>
-<sub><b>역할</b>: RAG 파이프라인 개발 & 백엔드</sub><br><br>
+<sub>🔉 <b>역할</b>: RAG 파이프라인 개발 & 백엔드</sub><br><br>
 <sub>📌 <b>주요 작업</b></sub><br>
 <sub>• HuggingFace Weekly Papers 정기 크롤링 파이프라인 구축</sub><br>
 <sub>• 논문 Abstract 청킹 + 임베딩 + 벡터DB 저장 파이프라인 개발</sub><br>
@@ -94,10 +102,13 @@
 
 <hr>
 
-<sub>📊 **[Netflix 고객 이탈률 예측](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-2nd-5TEAM)** </sub><br>
-<sub> [SKN20_2nd Project] Netflix 사용자 데이터 기반 ML/DL 모델로 고객 이탈 가능성 예측 및 맞춤형 구독 추천</sub><br><br>
+📊 **[Netflix 고객 이탈률 예측](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-2nd-5TEAM)**
+
+> <sub>[SKN20_2nd Project]</sub><br>
+> <sub>Netflix 사용자 데이터 기반 ML/DL 모델로 고객 이탈 가능성 예측 및 맞춤형 구독 추천</sub>
+
 <sub><code>PyTorch</code> <code>scikit-learn</code> <code>Streamlit</code> <code>Pandas</code></sub><br><br>
-<sub><b>역할</b>: 데이터 분석 & 모델링</sub><br><br>
+<sub>🔉 <b>역할</b>: 데이터 분석 & 모델링</sub><br><br>
 <sub>📌 <b>주요 작업</b></sub><br>
 <sub>• 데이터 전처리 (이상치 처리, One-Hot/Label Encoding, 스케일링)</sub><br>
 <sub>• ML 모델 비교 분석 (KNN, SVM, 로지스틱 회귀, Random Forest, Gradient Boosting)</sub><br>
@@ -109,10 +120,13 @@
 
 <hr>
 
-<sub>🚗 **[차량 정보 조회 시스템 및 FAQ](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-1ST-4TEAM)** </sub><br>
-<sub>[SKN20_1st Project] 2015&#126;2024년 연료별 차량 현황 조회 + 기아 자동차 FAQ 통합 대시보드</sub><br><br>
+🚗 **[차량 정보 조회 시스템 및 FAQ](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-1ST-4TEAM)**
+
+> <sub>[SKN20_1st Project]</sub><br>
+> <sub>2015&#126;2024년 연료별 차량 현황 조회 + 기아 자동차 FAQ 통합 대시보드</sub>
+
 <sub><code>Streamlit</code> <code>Plotly</code> <code>MySQL</code> <code>Selenium</code> <code>BeautifulSoup</code></sub><br><br>
-<sub><b>역할</b>: 크롤링 & 대시보드 개발</sub><br><br>
+<sub>🔉 <b>역할</b>: 크롤링 & 대시보드 개발</sub><br><br>
 <sub>📌 <b>주요 작업</b></sub><br>
 <sub>• 기아 자동차 FAQ 데이터 크롤링 (Selenium + BeautifulSoup)</sub><br>
 <sub>• MySQL DB 연동 및 SQL 쿼리 기반 데이터 조회 구현</sub><br>
@@ -129,7 +143,7 @@
 <br>
 
 <sub><b>AI 기획</b> — 특허 분석이라는 복잡한 도메인을 AI 파이프라인으로 설계하고, 법적 리스크까지 고려한 서비스 플로우를 기획합니다.</sub><br><br>
-<sub><b>풀스택 개발</b> — FastAPI/Django 백엔드부터 React 프론트엔드, DB 설계, Docker 배포까지 전체 파이프라인을 직접 구현합니다.</sub><br><br>
+<sub><b>풀스택 개발</b> — FastAPI/Django 백엔드부터 HTML/JS 프론트엔드, DB 설계, Docker 배포까지 전체 파이프라인을 직접 구현합니다.</sub><br><br>
 <sub><b>데이터 중심 사고</b> — sLLM 학습 데이터 구축 경험을 통해 데이터 품질이 모델 성능을 좌우한다는 것을 체감하고, 데이터 기반으로 문제를 해결합니다.</sub>
 
 ---
