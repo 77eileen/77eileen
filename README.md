@@ -6,7 +6,7 @@
 
 ---
 
-<small><small>**Tech Stack**</small></small>
+<h3 align="center">Tech Stack</h3>
 
 <p>
 <small><small><b>Languages / Frameworks</b></small></small><br>
@@ -37,7 +37,7 @@
 
 ---
 
-<small><small>**Featured Projects**</small></small>
+<h3 align="center">Featured Projects</h3>
 
 <br>
 
@@ -52,7 +52,7 @@
 <small><small>• 법적 리스크 최소화를 위한 용어 및 서비스 플로우 기획</small></small><br><br>
 <small><small>📊 <b>성과</b></small></small><br>
 <small><small>• sLLM 학습 데이터 기반 정확도: <b>13.3% → 95%+</b> 달성</small></small><br>
-<small><small>• 특허 분석 도메인 특화 학습 데이터셋 자체 구축</small></small>
+<small><small>• 특허 분석 도메인 특화 학습 데이터셋 자체 구축</small></small><br><br>
 
 <hr>
 
@@ -67,7 +67,7 @@
 <small><small>• Docker Compose 기반 멀티 컨테이너 배포 환경 구축</small></small><br><br>
 <small><small>📊 <b>성과</b></small></small><br>
 <small><small>• 3rd 프로젝트 대비 서비스 완성도 대폭 향상 (인증, 기록, 배포)</small></small><br>
-<small><small>• Docker 기반 원클릭 배포 가능한 프로덕션 구조 완성</small></small>
+<small><small>• Docker 기반 원클릭 배포 가능한 프로덕션 구조 완성</small></small><br><br>
 
 <hr>
 
@@ -83,7 +83,7 @@
 <small><small>• FastAPI 백엔드 + HTML/JS UI 웹 챗봇 연동</small></small><br><br>
 <small><small>📊 <b>성과</b></small></small><br>
 <small><small>• 클러스터 기반 트렌드 키워드 자동 추출 및 노출 기능 완성</small></small><br>
-<small><small>• Hybrid Search (벡터 유사도 + BM25) 적용으로 검색 품질 향상</small></small>
+<small><small>• Hybrid Search (벡터 유사도 + BM25) 적용으로 검색 품질 향상</small></small><br><br>
 
 <hr>
 
@@ -98,7 +98,7 @@
 <small><small>• CNN 딥러닝 모델 구현</small></small><br><br>
 <small><small>📊 <b>성과</b></small></small><br>
 <small><small>• AdaBoost 최적 모델 선정, 하이퍼파라미터 튜닝으로 성능 최적화</small></small><br>
-<small><small>• Tree 모델에서 Label Encoding이 더 효율적임을 실험으로 입증</small></small>
+<small><small>• Tree 모델에서 Label Encoding이 더 효율적임을 실험으로 입증</small></small><br><br>
 
 <hr>
 
@@ -113,11 +113,11 @@
 <small><small>• 연료별/차종별/연도별 필터링 및 순위 비교 기능</small></small><br><br>
 <small><small>📊 <b>성과</b></small></small><br>
 <small><small>• 10년간(2015&#126;2024) 연료별 차량 데이터 통합 시각화 완성</small></small><br>
-<small><small>• FAQ 3개 카테고리(TOP10, 전기차, 하이브리드) 키워드 검색 기능 구현</small></small>
+<small><small>• FAQ 3개 카테고리(TOP10, 전기차, 하이브리드) 키워드 검색 기능 구현</small></small><br><br>
 
 ---
 
-<small><small>**Core Strengths**</small></small>
+<h3 align="center">Core Strengths</h3>
 
 <br>
 
@@ -127,7 +127,7 @@
 
 ---
 
-<small><small>**GitHub Stats**</small></small>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
 
@@ -137,7 +137,7 @@
 
 ---
 
-<small><small>**Contact**</small></small>
+<h3 align="center">Contact</h3>
 
 <p>
 <a href="mailto:eileen.class.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="22"></a>
