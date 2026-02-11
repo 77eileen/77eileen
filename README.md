@@ -46,7 +46,7 @@
 <sub><code>Gemma3</code> <code>LangGraph</code> <code>FastAPI</code> <code>React</code> <code>RAG</code> <code>RunPod</code></sub><br><br>
 <sub><b>역할</b>: AI 기획 & sLLM 학습 데이터 엔지니어</sub><br><br>
 <sub>📌 <b>주요 작업</b></sub><br>
-<sub>• Gemma3 sLLM 파인튜닝을 위한 특허 청구항 학습 데이터 구축 (<a href="https://github.com/77eileen/patent">개인 레포</a>)</sub><br>
+<sub>• Gemma3 sLLM 파인튜닝을 위한 특허 청구항 학습 데이터 구축 (<a href="https://github.com/77eileen/patent">🗂️</a>)</sub><br>
 <sub>• 특허 침해 판단 기준 데이터셋 설계 및 정제</sub><br>
 <sub>• RunPod GPU 클라우드 환경에서의 모델 학습 파이프라인 구성</sub><br>
 <sub>• 법적 리스크 최소화를 위한 용어 및 서비스 플로우 기획</sub><br><br>
