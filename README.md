@@ -131,11 +131,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=77eileen&show_icons=true&hide_border=true" height="140" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77eileen&layout=compact&hide_border=true" height="140" />
-
-<br>
-
 <img src="https://streak-stats.demolab.com/?user=77eileen&hide_border=true&background=ffffff&ring=666666&fire=333333&currStreakLabel=333333&sideLabels=555555&dates=999999" height="140" />
 
 </div>
