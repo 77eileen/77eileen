@@ -41,8 +41,8 @@
 
 <br>
 
-<small><small>🔬 **[한국 화장품 특허 FTO 분석 시스템](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM)** `진행 중`</small></small><br>
-<small><small>sLLM 기반 특허 침해 분석 자동화 — 한국 화장품 분야 Freedom to Operate(FTO) 분석</small></small><br><br>
+<small><small>🔬 **[특허/디자인 FTO 분석 시스템](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM)** `진행 중`</small></small><br>
+<small><small>sLLM 기반 특허 침해 분석 자동화 — 특허/디자인 분야 Freedom to Operate(FTO) 분석</small></small><br><br>
 <small><small><code>Gemma3</code> <code>LangGraph</code> <code>FastAPI</code> <code>React</code> <code>RAG</code> <code>RunPod</code></small></small><br><br>
 <small><small><b>역할</b>: AI 기획 & sLLM 학습 데이터 엔지니어</small></small><br><br>
 <small><small>📌 <b>주요 작업</b></small></small><br>
