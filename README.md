@@ -8,10 +8,23 @@
 
 <p align="center">
 <sub><b>Chemistry M.S. | 제약/바이오/화장품 IP 11년+ | AI 전환 개발자</b></sub><br>
-<sub>특허 출원 · FTO · 침해 분석 실무 경험을 바탕으로, 도메인 지식과 AI 기술을 결합한 서비스를 만듭니다.</sub>
+<sub>도메인 지식과 AI 기술을 결합한 서비스를 만듭니다.</sub>
 </p>
 
 ---
+
+<h3 align="center">✨ Core Strengths ✨</h3>
+
+<br>
+
+<sub><b>Biz-Tech Bridge</b> — 제약/화장품 IP 11년 실무 경험을 바탕으로, 현업의 Pain Point를 AI 솔루션으로 연결합니다.</sub><br>
+<sub><b>AI Native Capability</b> — sLLM 파인튜닝, RAG 파이프라인, 하이브리드 검색까지 직접 설계하고 구현합니다.</sub><br>
+<sub><b>Problem Solving</b> — FTO 분석 자동화 시스템을 직접 구축하여 정확도 95%, 속도 37.5% 개선을 달성했습니다.</sub><br>
+<sub><b>Data-Driven</b> — 8만+ 특허 데이터 처리, 임베딩·청크 전략 최적화 실험 등 데이터 기반으로 문제를 해결합니다.</sub><br>
+<sub><b>AI Tool Leverage</b> — Claude cli, Gemini cli, Replit 등 AI 코딩 도구를 활용한 바이브코딩으로 빠르게 프로토타입을 구현합니다.</sub>
+
+---
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 
@@ -47,104 +60,32 @@
 
 <br>
 
-🔬 **[FTOGuard](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM)** `진행 중`
+🔬 **[FTOGuard](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM)** `진행 중`<br>
+<sub>sLLM 기반 특허 침해(FTO) 분석 자동화 서비스</sub><br>
+<sub>8만+ 특허 데이터 수집 · 하이브리드 검색(Dense+BM25) · RRF 랭킹 · Qwen 2.5 파인튜닝 · Gemini 학습 데이터 생성 · 자동 품질 검증 시스템 구축</sub><br>
+<sub><code>Qwen 2.5</code> <code>LangGraph</code> <code>FastAPI</code> <code>Django</code> <code>ChromaDB</code> <code>RunPod</code></sub><br><br>
 
-> <sub>[SKN20_Final Project]</sub><br>
-> <sub>sLLM 기반 특허 침해 분석 자동화 — 특허/디자인 분야 Freedom to Operate(FTO) 분석</sub>
+📚 **[PaperSnack v2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-4th-2TEAM)**<br>
+<sub>HuggingFace Weekly Papers RAG 챗봇 고도화</sub><br>
+<sub>RAGAS 평가 체계 도입 · Django 회원/채팅 히스토리 · Docker 멀티컨테이너 배포 · Nginx 리버스 프록시</sub><br>
+<sub><code>Django</code> <code>FastAPI</code> <code>LangGraph</code> <code>ChromaDB</code> <code>Docker</code> <code>Nginx</code> <code>RAGAS</code></sub><br><br>
 
-<sub><code>Gemma3</code> <code>LangGraph</code> <code>FastAPI</code> <code>React</code> <code>RAG</code> <code>RunPod</code></sub><br><br>
-<sub>🔉 <b>역할</b>: AI 기획 & sLLM 학습 데이터 엔지니어</sub><br><br>
-<sub>📌 <b>주요 작업</b></sub><br>
-<sub>• Gemma3 sLLM 파인튜닝을 위한 특허 청구항 학습 데이터 구축 <a href="https://github.com/77eileen/patent">🔗</a></sub><br>
-<sub>• 특허 침해 판단 기준 데이터셋 설계 및 정제</sub><br>
-<sub>• RunPod GPU 클라우드 환경에서의 모델 학습 파이프라인 구성</sub><br>
-<sub>• 법적 리스크 최소화를 위한 용어 및 서비스 플로우 기획</sub><br><br>
-<sub>📊 <b>성과</b></sub><br>
-<sub>• sLLM 학습 데이터 기반 정확도: <b>13.3% → 95%+</b> 달성</sub><br>
-<sub>• 특허 분석 도메인 특화 학습 데이터셋 자체 구축</sub><br><br>
+🔍 **[PaperSnack v1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-3rd-2TEAM)**<br>
+<sub>HuggingFace Weekly Papers 트렌드 검색 RAG 챗봇</sub><br>
+<sub>논문 크롤링 · 임베딩 모델 7종 × 청크 전략 6종 비교 실험 · K-Means 트렌드 클러스터링 · LangGraph RAG 라우팅</sub><br>
+<sub><code>LangChain</code> <code>LangGraph</code> <code>FastAPI</code> <code>ChromaDB</code> <code>K-Means</code></sub><br><br>
 
-<hr>
-
-📚 **[PaperSnack v2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-4th-2TEAM)**
-
-> <sub>[SKN20_4th Project]</sub><br>
-> <sub>HuggingFace Weekly Papers RAG 챗봇의 확장판 — 회원 시스템, 대화 기록, Docker 배포</sub>
-
-<sub><code>Django</code> <code>FastAPI</code> <code>LangGraph</code> <code>ChromaDB</code> <code>Docker</code> <code>MySQL</code></sub><br><br>
-<sub>🔉 <b>역할</b>: Full Stack Developer</sub><br><br>
-<sub>📌 <b>주요 작업</b></sub><br>
-<sub>• Django 기반 회원가입/로그인 인증 시스템 구현</sub><br>
-<sub>• 사용자별 대화 기록 저장 및 조회 기능 개발</sub><br>
-<sub>• Django + FastAPI 마이크로서비스 아키텍처 설계</sub><br>
-<sub>• Docker Compose 기반 멀티 컨테이너 배포 환경 구축</sub><br><br>
-<sub>📊 <b>성과</b></sub><br>
-<sub>• 3rd 프로젝트 대비 서비스 완성도 대폭 향상 (인증, 기록, 배포)</sub><br>
-<sub>• Docker 기반 원클릭 배포 가능한 프로덕션 구조 완성</sub><br><br>
-
-<hr>
-
-🔍 **[PaperSnack v1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-3rd-2TEAM)**
-
-> <sub>[SKN20_3rd Project]</sub><br>
-> <sub>HuggingFace Weekly Papers 데이터를 자동 수집·분석하여 최신 AI/ML 논문 트렌드를 질의응답 형태로 제공</sub>
-
-<sub><code>LangGraph</code> <code>FastAPI</code> <code>ChromaDB</code> <code>K-Means</code> <code>HTML/JS</code></sub><br><br>
-<sub>🔉 <b>역할</b>: RAG 파이프라인 개발 & 백엔드</sub><br><br>
-<sub>📌 <b>주요 작업</b></sub><br>
-<sub>• HuggingFace Weekly Papers 정기 크롤링 파이프라인 구축</sub><br>
-<sub>• 논문 Abstract 청킹 + 임베딩 + 벡터DB 저장 파이프라인 개발</sub><br>
-<sub>• K-Means 클러스터링 기반 트렌드/토픽 구조화 및 키워드 추출</sub><br>
-<sub>• LangGraph 기반 RAG 라우팅으로 검색 전략 자동 선택 구현</sub><br>
-<sub>• FastAPI 백엔드 + HTML/JS UI 웹 챗봇 연동</sub><br><br>
-<sub>📊 <b>성과</b></sub><br>
-<sub>• 클러스터 기반 트렌드 키워드 자동 추출 및 노출 기능 완성</sub><br>
-<sub>• Hybrid Search (벡터 유사도 + BM25) 적용으로 검색 품질 향상</sub><br><br>
-
-<hr>
-
-📊 **[Netflix 고객 이탈률 예측](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-2nd-5TEAM)**
-
-> <sub>[SKN20_2nd Project]</sub><br>
-> <sub>Netflix 사용자 데이터 기반 ML/DL 모델로 고객 이탈 가능성 예측 및 맞춤형 구독 추천</sub>
-
+📊 **[Netflix 고객 이탈률 예측](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-2nd-5TEAM)**<br>
+<sub>ML/DL 모델 기반 고객 이탈 예측 + 맞춤 구독 추천</sub><br>
+<sub>ML 9종 비교 · 앙상블(Bagging, AdaBoost, Voting) · GridSearchCV 교차 검증 · Streamlit 추천 UI</sub><br>
 <sub><code>PyTorch</code> <code>scikit-learn</code> <code>Streamlit</code> <code>Pandas</code></sub><br><br>
-<sub>🔉 <b>역할</b>: 데이터 분석 & 모델링</sub><br><br>
-<sub>📌 <b>주요 작업</b></sub><br>
-<sub>• 데이터 전처리 (이상치 처리, One-Hot/Label Encoding, 스케일링)</sub><br>
-<sub>• ML 모델 비교 분석 (KNN, SVM, 로지스틱 회귀, Random Forest, Gradient Boosting)</sub><br>
-<sub>• 앙상블 모델 (Bagging, AdaBoost, Voting) 실험 및 성능 비교</sub><br>
-<sub>• CNN 딥러닝 모델 구현</sub><br><br>
-<sub>📊 <b>성과</b></sub><br>
-<sub>• AdaBoost 최적 모델 선정, 하이퍼파라미터 튜닝으로 성능 최적화</sub><br>
-<sub>• Tree 모델에서 Label Encoding이 더 효율적임을 실험으로 입증</sub><br><br>
 
-<hr>
+🚗 **[차량 정보 조회 시스템](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-1ST-4TEAM)**<br>
+<sub>2015~2024 연료별 차량 현황 대시보드 + 기아 FAQ</sub><br>
+<sub>기아 FAQ 크롤링 · MySQL DB 연동 · 연료/차종/연도별 필터링 · Plotly 시각화</sub><br>
+<sub><code>Streamlit</code> <code>Plotly</code> <code>MySQL</code> <code>Selenium</code> <code>BeautifulSoup</code></sub>
 
-🚗 **[차량 정보 조회 시스템 및 FAQ](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-1ST-4TEAM)**
 
-> <sub>[SKN20_1st Project]</sub><br>
-> <sub>2015&#126;2024년 연료별 차량 현황 조회 + 기아 자동차 FAQ 통합 대시보드</sub>
-
-<sub><code>Streamlit</code> <code>Plotly</code> <code>MySQL</code> <code>Selenium</code> <code>BeautifulSoup</code></sub><br><br>
-<sub>🔉 <b>역할</b>: 크롤링 & 대시보드 개발</sub><br><br>
-<sub>📌 <b>주요 작업</b></sub><br>
-<sub>• 기아 자동차 FAQ 데이터 크롤링 (Selenium + BeautifulSoup)</sub><br>
-<sub>• MySQL DB 연동 및 SQL 쿼리 기반 데이터 조회 구현</sub><br>
-<sub>• Streamlit + Plotly 기반 데이터 시각화 대시보드 구현</sub><br>
-<sub>• 연료별/차종별/연도별 필터링 및 순위 비교 기능</sub><br><br>
-<sub>📊 <b>성과</b></sub><br>
-<sub>• 10년간(2015&#126;2024) 연료별 차량 데이터 통합 시각화 완성</sub><br>
-<sub>• FAQ 3개 카테고리(TOP10, 전기차, 하이브리드) 키워드 검색 기능 구현</sub><br><br>
-
----
-
-<h3 align="center">✨ Core Strengths ✨</h3>
-
-<br>
-
-<sub><b>AI 기획</b> — 특허 분석이라는 복잡한 도메인을 AI 파이프라인으로 설계하고, 법적 리스크까지 고려한 서비스 플로우를 기획합니다.</sub><br><br>
-<sub><b>풀스택 개발</b> — FastAPI/Django 백엔드부터 HTML/JS 프론트엔드, DB 설계, Docker 배포까지 전체 파이프라인을 직접 구현합니다.</sub><br><br>
-<sub><b>데이터 중심 사고</b> — sLLM 학습 데이터 구축 경험을 통해 데이터 품질이 모델 성능을 좌우한다는 것을 체감하고, 데이터 기반으로 문제를 해결합니다.</sub>
 
 ---
 
@@ -152,7 +93,11 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=77eileen&hide_border=true&background=ffffff&ring=666666&fire=333333&currStreakLabel=333333&sideLabels=555555&dates=999999" height="140" />
+<img src="https://komarev.com/ghpvc/?username=77eileen&style=flat&color=blueviolet" height="20" /><br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=77eileen&show_icons=true&hide_border=true&bg_color=ffffff&title_color=333333&text_color=555555&icon_color=666666&rank_icon=default" height="160" /><br><br>
+
+<img src="https://ghchart.rshah.org/666666/77eileen" alt="77eileen's GitHub Contribution Chart" />
 
 </div>
 
