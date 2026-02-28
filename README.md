@@ -1,6 +1,6 @@
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=888888&center=true&vCenter=true&width=435&lines=Hi!+I'm+Eileen+%F0%9F%91%8B;AI+Planner+%26+Developer)](https://git.io/typing-svg)
+<div align="center">
+<img src="./git_banner.png" width="80%" />
 
 </div>
 
@@ -95,9 +95,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=77eileen&style=flat&color=blueviolet" height="20" /><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=77eileen&show_icons=true&hide_border=true&bg_color=ffffff&title_color=333333&text_color=555555&icon_color=666666&rank_icon=default" height="160" /><br><br>
+<img src="https://streak-stats.demolab.com/?user=77eileen&hide_border=true&background=ffffff&ring=666666&fire=333333&currStreakLabel=333333&sideLabels=555555&dates=999999" height="140" />
 
-<img src="https://ghchart.rshah.org/666666/77eileen" alt="77eileen's GitHub Contribution Chart" />
+</div>
+
 
 </div>
 
@@ -105,7 +106,7 @@
 
 <h3 align="center">✨ Contact ✨</h3>
 
-<p>
+<p align="center">
 <a href="mailto:eileen.class.it@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="22"></a>
 <a href="https://github.com/77eileen"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="22"></a>
 </p>
