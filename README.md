@@ -13,6 +13,18 @@
 
 ---
 
+<h3 align="center">🌟 About Me 🌟</h3>
+
+<br>
+
+<sub>📍 <b>Location</b>: Seoul, South Korea 🇰🇷</sub><br>
+<sub>🎓 <b>Background</b>: Chemistry M.S. → Pharma/Cosmetics IP 11yr → AI PM & AI Engineer</sub><br>
+<sub>🔉 <b>Current Focus</b>: RAG Systems & sLLM Fine-tuning · Patent Analysis Automation (FTO) · AI-Powered Domain Solutions</sub><br>
+<sub>🎉 <b>Philosophy</b>: "Bridge the gap between Business and Technology"</sub><br>
+<sub>❓ <b>Ask Me About</b>: RAG | LangGraph | sLLM | FTO | Patent Analysis | Django | FastAPI | Career Transition</sub>
+
+---
+
 <h3 align="center">✨ Core Strengths ✨</h3>
 
 <br>
