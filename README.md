@@ -47,7 +47,7 @@
 
 <br>
 
-🔬 **[Greenlight](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM)** `진행 중`
+🔬 **[FTOGuard](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM)** `진행 중`
 
 > <sub>[SKN20_Final Project]</sub><br>
 > <sub>sLLM 기반 특허 침해 분석 자동화 — 특허/디자인 분야 Freedom to Operate(FTO) 분석</sub>
