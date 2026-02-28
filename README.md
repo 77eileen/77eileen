@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="./git_banner_v5.png" width="80%" />
+<img src="./git_banner_v6.png" />
 
 </div>
 
