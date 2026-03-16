@@ -70,7 +70,7 @@
 
 <br>
 
-🔬 **[FTOGuard](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM)** `🏆 Awards: SK네트웍스 Family AI캠프 20기 최우수상`<br>
+🔬 **[FTOGuard](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM)** `🏆 Awards: SK네트웍스 Family AI캠프 20기, 프로젝트 1위`<br>
 <small>sLLM 기반 특허 침해(FTO) 분석 자동화 서비스</small><br>
 <small>8만+ 특허 데이터 수집 · 하이브리드 검색(Dense+BM25) · RRF 랭킹 · Qwen 2.5 파인튜닝 · Gemini 학습 데이터 생성 · 자동 품질 검증 시스템 구축</small><br>
 <small><code>Qwen 2.5</code> <code>LangGraph</code> <code>FastAPI</code> <code>Django</code> <code>ChromaDB</code> <code>RunPod</code></small><br><br>
