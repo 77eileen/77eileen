@@ -70,27 +70,27 @@
 
 <br>
 
-🔬 **[FTOGuard](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-FINAL-2TEAM)** `🏆 Awards: SK네트웍스 Family AI캠프 20기, 프로젝트 1위`<br>
+🔬 **[FTOGuard]** `🏆 Awards: SK네트웍스 Family AI캠프 20기, 프로젝트 1위`<br>
 <small>sLLM 기반 특허 침해(FTO) 분석 자동화 서비스</small><br>
 <small>8만+ 특허 데이터 수집 · 하이브리드 검색(Dense+BM25) · RRF 랭킹 · Qwen 2.5 파인튜닝 · Gemini 학습 데이터 생성 · 자동 품질 검증 시스템 구축</small><br>
 <small><code>Qwen 2.5</code> <code>LangGraph</code> <code>FastAPI</code> <code>Django</code> <code>ChromaDB</code> <code>RunPod</code></small><br><br>
 
-📚 **[PaperSnack v2](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-4th-2TEAM)**<br>
+📚 **[PaperSnack v2]**<br>
 <small>HuggingFace Weekly Papers RAG 챗봇 고도화</small><br>
 <small>RAGAS 평가 체계 도입 · Django 회원/채팅 히스토리 · Docker 멀티컨테이너 배포 · Nginx 리버스 프록시</small><br>
 <small><code>Django</code> <code>FastAPI</code> <code>LangGraph</code> <code>ChromaDB</code> <code>Docker</code> <code>Nginx</code> <code>RAGAS</code></small><br><br>
 
-🔍 **[PaperSnack v1](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-3rd-2TEAM)**<br>
+🔍 **[PaperSnack v1]**<br>
 <small>HuggingFace Weekly Papers 트렌드 검색 RAG 챗봇</small><br>
 <small>논문 크롤링 · 임베딩 모델 7종 × 청크 전략 6종 비교 실험 · K-Means 트렌드 클러스터링 · LangGraph RAG 라우팅</small><br>
 <small><code>LangChain</code> <code>LangGraph</code> <code>FastAPI</code> <code>ChromaDB</code> <code>K-Means</code></small><br><br>
 
-📊 **[Netflix 고객 이탈률 예측](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-2nd-5TEAM)**<br>
+📊 **[Netflix 고객 이탈률 예측]**<br>
 <small>ML/DL 모델 기반 고객 이탈 예측 + 맞춤 구독 추천</small><br>
 <small>ML 9종 비교 · 앙상블(Bagging, AdaBoost, Voting) · GridSearchCV 교차 검증 · Streamlit 추천 UI</small><br>
 <small><code>PyTorch</code> <code>scikit-learn</code> <code>Streamlit</code> <code>Pandas</code></small><br><br>
 
-🚗 **[차량 정보 조회 시스템](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN20-1ST-4TEAM)**<br>
+🚗 **[차량 정보 조회 시스템]**<br>
 <small>2015~2024 연료별 차량 현황 대시보드 + 기아 FAQ</small><br>
 <small>기아 FAQ 크롤링 · MySQL DB 연동 · 연료/차종/연도별 필터링 · Plotly 시각화</small><br>
 <small><code>Streamlit</code> <code>Plotly</code> <code>MySQL</code> <code>Selenium</code> <code>BeautifulSoup</code></small>
